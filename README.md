@@ -9,4 +9,4 @@ Launch Binder using this button:
 
 Or this link: 
 
- :target: https://mybinder.org/v2/gh/linznicholson/707711/HEAD
+https://mybinder.org/v2/gh/linznicholson/707711/HEAD
