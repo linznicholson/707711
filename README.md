@@ -9,5 +9,4 @@ Launch Binder using this button:
 
 Or this link: 
 
-.. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/linznicholson/707711/HEAD
