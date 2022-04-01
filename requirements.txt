@@ -1,0 +1,7 @@
+# required packages
+
+matplotlib==3.2.1
+numpy==1.18.5
+pandas==1.0.4
+scipy==1.4.1              
+seaborn==0.10.1
